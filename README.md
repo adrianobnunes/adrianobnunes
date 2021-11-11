@@ -1,7 +1,7 @@
 ### Olá! Me chamo Adriano Becco Nunes 👋
 
 - 🔭 Atualmente estou a procura de uma primeira oportunidade na área de Front-End
-- 🌱 Estudando HTML, CSS, JavaScript
+- 🌱 Estudando HTML, CSS, JavaScript e React
 - 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo SENAC (3ºSemestre) e Cursando Web FullStack pela Labenu
 - 📫 Email para contato: adrianobn.nunes@gmail.com
 
@@ -12,6 +12,7 @@
 </div>
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
