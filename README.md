@@ -1,6 +1,5 @@
 ### Olá! Me chamo Adriano Becco Nunes 👋
 
-- 🔭 Atualmente estou a procura de uma primeira oportunidade na área de Front-End
 - 🌱 Estudando HTML, CSS, JavaScript e React
 - 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo SENAC (3ºSemestre) e Cursando Web FullStack pela Labenu
 - 📫 Email para contato: adrianobn.nunes@gmail.com
