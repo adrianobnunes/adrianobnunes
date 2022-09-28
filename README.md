@@ -1,8 +1,9 @@
 ### Olá! Me chamo Adriano Becco Nunes 👋
 
-- 🌱 Estudando HTML, CSS, JavaScript, React, Typescript e SQL
-- 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo SENAC (5ºSemestre) e Cursando Web FullStack pela Labenu
-- 📫 Email para contato: adrianobn.nunes@gmail.com
+- Desenvolvedor Web Full Stack - Bootcamp Labenu
+- Estudando HTML, CSS, JavaScript, React, Typescript e SQL
+- Graduando em Análise e Desenvolvimento de Sistemas pelo SENAC (6ºSemestre) 
+- Email para contato: adrianobn.nunes@gmail.com
 
 <div>
   <a href="https://github.com/adrianobnunes">
